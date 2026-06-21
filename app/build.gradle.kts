@@ -8,14 +8,7 @@ plugins {
 
 android {
   namespace = "com.example"
-  PS C:\Users\jiten\Downloads\fvindia_-wealthcanvas> git --version
-  git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that
-  the path is correct and try again.
-At line:1 char:1
-  + git --version
-          + ~~~
-  + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
-  + FullyQualifiedErrorId : CommandNotFoundException  compileSdk = 36
+  compileSdk = 36
 
   defaultConfig {
     applicationId = "com.aistudio.wealthcanvas.xjtpqr"
