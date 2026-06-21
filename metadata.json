@@ -1,0 +1,8 @@
+{
+  "name": "FVIndia: WealthCanvas",
+  "description": "WealthCanvas by FV India is a comprehensive 7-dimension Financial Health Assessment tool offering personalized analytics, contingency planning, and wealth forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
